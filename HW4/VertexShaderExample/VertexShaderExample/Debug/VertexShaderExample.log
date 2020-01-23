@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DrawTriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  0616225.cpp
+C:\Users\yuaan\Desktop\3u\CG\HW4\0616225_HW4\0616225_HW4\VertexShaderExample\VertexShaderExample\include\FreeImage.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\yuaan\Desktop\3u\CG\HW4\0616225_HW4\0616225_HW4\VertexShaderExample\VertexShaderExample\0616225.cpp(563,12): warning C4101: 'y': 未參考的區域變數
+C:\Users\yuaan\Desktop\3u\CG\HW4\0616225_HW4\0616225_HW4\VertexShaderExample\VertexShaderExample\0616225.cpp(563,9): warning C4101: 'x': 未參考的區域變數
+  VertexShaderExample.vcxproj -> C:\Users\yuaan\Desktop\3u\CG\HW4\0616225_HW4\0616225_HW4\VertexShaderExample\Debug\VertexShaderExample.exe
